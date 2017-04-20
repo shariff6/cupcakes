@@ -1,0 +1,18 @@
+h1{text-align: center;
+  color: brown;
+  font-size: 50px;
+  font-style: italic;
+  font-family: cursive;
+}
+html{
+  background-image: url(BT.jpg);
+}
+.flashy{
+  font-style: italic;
+  color: red;
+}
+h2{
+  color: white;
+  font-size: 30px;
+  font-style: normal;
+  font-family: serif;
