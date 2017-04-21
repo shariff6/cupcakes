@@ -6,6 +6,7 @@ h1{text-align: center;
 }
 html{
   background-image: url(BT.jpg);
+  background-position: top;
 }
 .flashy{
   font-style: italic;
@@ -16,3 +17,26 @@ h2{
   font-size: 30px;
   font-style: normal;
   font-family: serif;
+}
+p{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+img{ float: left;
+}
+li{
+  font-size: 20px;
+  font-weight: 300;
+  font-style: italic;
+  color: black;
+  font-weight: bold;
+}
+.best{
+  font-size: 60px;
+  color: purple;
+}
+div{
+  height: 25px;
+  width: auto;
+
+}
